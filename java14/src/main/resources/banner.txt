@@ -1,0 +1,11 @@
+         _      __
+ |  /   | \    |  \
+ | /    |  )   |   )
+ |/     | /    |  /
+ |\     |/     |  \
+ | \    |\     |   )
+ |  \   | \    |__/ 
+ 
+ 
+ Application Name    :: ${spring.application.name}-${spring.module.name}
+ Application Version :: ${spring.application.version}
